@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse Transmit</string>
+    <string label="permdesc_flashlight">The flashlight is used to transmit the Morse code.</string>
+
+</resources>
